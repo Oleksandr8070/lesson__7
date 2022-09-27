@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
+
+.about_us{
+    font-family: "Lato",sans-serif;
+    max-width: 810px;
+    margin: 0 auto;
+
+}
+[class*="__container"]{
+    font-family: "Lato",sans-serif;
+    max-width: 810px;
+    margin: 0 auto;
+   
+
+}
+.header__container{
+    font-weight: 900;
+    font-size: 46px;
+    color: #1E212C;
+    margin-bottom: 92px;
+    
+}
+.img1{
+    margin-bottom: 60px;
+}
+.teext{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #1E212C;
+    line-height: 30px;
+    margin-bottom: 13px;
+
+}
+.text{
+    line-height: 26px;
+    color: #424551;
+    margin-bottom: 56px;
+}
+.text2{
+    padding-bottom: 30px;
+}
+.lorem{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #1E212C;
+    padding-left: 56px;
+    margin-bottom: 48px;
+}
+.mauris{
+    line-height: 26px;
+    color: #424551;
+    margin-bottom: 24px;
+}
+.fermentum{
+    line-height: 26px;
+    margin-bottom: 24px;
+    color: #424551;
+    padding-left: 30px;
+}
+.enim{
+    line-height:26px;
+    color: #424551;
+    margin-bottom: 500px;
+}
+/*************8homework*************/
+.homework{
+    background-image:url("../img/fon_first.jpg");
+    
+    
+}
+
+.homework__container{
+    background-image: url("../img/adidas.gif");
+    background-color:pink;
+    background-attachment: fixed;
+    background-position:center;
+
+}
+[class*="__simpsons"]{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 35px;
+    padding: 100px;
+    color:rgb(13, 13, 13);
+    
+}
+h1,h2{
+    font-weight: 900;
+    font-size: 46px;
+        
+}
+.mag{
+    padding-bottom: 34px;
+}
+img{
+    border-radius: 60px;
+}
+
+.name__simpsons{
+    padding-top: 300px;
+}
+.model__simpsons{
+    background-image: url(../img/bart.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+}
